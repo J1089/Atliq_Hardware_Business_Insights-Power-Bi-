@@ -50,6 +50,35 @@ Thank you for your interest in Atliq_Hardware Business Insights!
 
 ---
 
+### **Sales View**:
+1. **Net Sales**: 
+   - **Total for 2022**: $3.74 billion 
+   - **Change**: Decreased by -1.86% from the benchmark of $3.81 billion.
+
+2. **Gross Margin (GM)**:
+   - **Total for 2022**: $1.42 billion 
+   - **GM Percentage**: 38.08%, slightly below the benchmark of 38.34%.
+   - **Observation**: Consistent cost control despite lower net sales.
+
+3. **Sales by Segment**:
+   - **Notebook Segment**: Leading contributor with $1.58 billion in net sales and a GM of $600.96 million (GM %: 38.34%).
+   - **Other Segments**: Peripherals and Desktop show minor declines year-over-year.
+
+4. **Sales by Customer**:
+   - **Top Customer**: Amazon with $496.88 million in net sales and a GM of $182.77 million (GM %: 36.78%).
+   - **Other Contributors**: Atliq Exclusive and Atliq eStore have GM % values above 46%.
+
+5. **Sales by Region**:
+   - **APAC Region**: $1.92 billion in net sales, leading but showing a significant YOY decline of -11.07%.
+   - **Other Regions**: NA at $1.02 billion and EU at $775.48 million, both experiencing YOY declines.
+
+6. **Key Insights**:
+   - Strong performances in notebooks and relationships with top customers like Amazon.
+   - Urgent need to address YOY declines in regions and segments.
+   - Strategies should focus on revitalizing underperforming areas while leveraging strengths in high-performing segments and customers.
+
+---
+
 ### **Marketing View**:
 - **Customer Acquisition**: The overall customer acquisition rate for 2022 is **3.74 million**, a minor decrease of **-1.86%** from the benchmark of **3.81 million**, suggesting some difficulty in maintaining customer growth.
 - **Marketing Spend**: The marketing spend shows an increase of **3.2%** compared to last year, reflecting greater investment in campaigns.
